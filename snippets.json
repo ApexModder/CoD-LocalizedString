@@ -1,0 +1,27 @@
+{
+	"reference": {
+		"prefix": "REFERENCE",
+		"body": [
+			"REFERENCE\t\t\t${1:KEY}",
+			"LANG_${2:ENGLISH}\t\t\"${3:VALUE}\""
+		]
+	},
+	"lang": {
+		"prefix": "LANG_",
+		"body": [
+			"LANG_${1:ENGLISH}\t\t\"${2:VALUE}\""
+		]
+	},
+	"endmarker": {
+		"prefix": "ENDMARKER",
+		"body": "ENDMARKER"
+	},
+	"header": {
+		"prefix": "str-header",
+		"body": [
+			"VERSION\t\t\t\t\"${1:1}\"",
+			"CONFIG\t\t\t\t\"C:\\projects\\cod\\t7\\bin\\StringEd.cfg\"",
+			"FILENOTES\t\t\t\"${2:}\""
+		]
+	}
+}

@@ -1,0 +1,42 @@
+{
+	"$schema": "https://raw.githubusercontent.com/martinring/tmlanguage/master/tmlanguage.json",
+	"name": "str",
+	"scopeName": "source.str",
+	"patterns": [
+		{
+			"include": "#keywords"
+		},
+		{
+			"include": "#comments"
+		}
+	],
+	"repository": {
+		"keywords": {
+			"patterns": [
+				{
+					"name": "constant",
+					"match": "(FILENOTES|VERSION|CONFIG|REFERENCE|ENDMARKER|LANG_[A-Z_]+)"
+				},
+				{
+					"name": "string.quoted.double",
+					"begin": "\"",
+					"end": "[\"\n\r]"
+				},
+				{
+					"name": "keyword.control",
+					"match": "[A-Z0-9_]+"
+				}
+			]
+		},
+		"comments": {
+			"name": "comment",
+			"patterns": [
+				{
+					"name": "comment.line.double-slash",
+					"begin": "\\/\\/",
+					"end": "$"
+				}
+			]
+		}
+	}
+}
