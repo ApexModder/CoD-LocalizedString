@@ -7,6 +7,14 @@
 	"author": {
 		"name": "ApexModder"
 	},
+	"homepage": "https://github.com/ApexModder/CoD-LocalizedString/blob/master/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ApexModder/CoD-LocalizedString"
+	},
+	"bugs": {
+		"url": "https://github.com/ApexModder/CoD-LocalizedString/issues"
+	},
 	"engines": {
 		"vscode": "^1.20.0"
 	},
