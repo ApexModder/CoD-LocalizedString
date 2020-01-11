@@ -2,7 +2,7 @@
 	"name": "localizedstrings",
 	"displayName": "LocalizedStrings",
 	"description": "Support for Call of Duty's Localized String files (.str)",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "ApexModder",
 	"author": {
 		"name": "ApexModder"
