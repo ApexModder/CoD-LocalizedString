@@ -1,4 +1,6 @@
 # CoD-LocalizedString
+![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/ApexModder.localizedstrings?style=for-the-badge) ![GitHub](https://img.shields.io/github/license/ApexModder/CoD-LocalizedString?style=for-the-badge)
+
 Support for **Call of Duty's Localized String** files (_.str_)
 
 ![preview](https://i.imgur.com/lgVuBcG.png)
