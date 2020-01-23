@@ -1,3 +1,7 @@
+<p align="center">
+	<img src="apex_file_type_str_bo3.jpg" width=30%>
+</p>
+
 # CoD-LocalizedString
 ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/ApexModder.localizedstrings?style=for-the-badge) ![GitHub](https://img.shields.io/github/license/ApexModder/CoD-LocalizedString?style=for-the-badge)
 
